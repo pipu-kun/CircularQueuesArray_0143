@@ -53,5 +53,8 @@ class Queues{
             }
         }
 
-        void display(){}
+        void display(){
+            int FRONT_Position = FRONT;
+            int REAR_Position = REAR;
+        }
 };
